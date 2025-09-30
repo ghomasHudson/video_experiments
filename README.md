@@ -1,2 +1,2 @@
 # Video Experiments
-Miscilaneous video model experiments
+Miscellaneous video model experiments
