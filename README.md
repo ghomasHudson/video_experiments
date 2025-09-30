@@ -1,2 +1,2 @@
-# video_experiments
-Misc video experiments
+# Video Experiments
+Miscilaneous video model experiments
